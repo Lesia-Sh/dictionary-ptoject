@@ -12,7 +12,7 @@
   transition: all 150ms ease-in-out;
 }
 .Phonetic a:hover {
-  background: coral;
+  background: #ff847c;
   color: white;
 }
 .Phonetic .text {
